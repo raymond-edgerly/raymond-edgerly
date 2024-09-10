@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm RJ.
 
 <!--
 **raymond-edgerly/raymond-edgerly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
